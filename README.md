@@ -1,4 +1,4 @@
-"# sistema-experto-forward-chaining-java" 
+
 # Sistema Experto Analisis Medico
 
 
