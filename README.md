@@ -12,7 +12,7 @@
   ![preview img](/preview/se_fwc.jpg)
   
   Script 
-  ```	
+ ~~~	
 NUMERICO 
 TEMP 
 
@@ -48,7 +48,7 @@ IF ATENCION = MEDICOGENERAL
 
 BASEHECHO
  [Temp = 38 , TOS = SI, CANSANCIO = SI,DOLORCUERPO = SI]
- ```
+ ~~~
   
   Ejecutado
 
