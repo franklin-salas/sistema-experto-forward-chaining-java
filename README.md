@@ -53,6 +53,6 @@ BASEHECHO
   
   Ejecutado
 
-  ![preview img](/preview/se_fwc_metas.jpg)
+  ![preview img](/preview/se_fwc_meta.jpg)
   
   
