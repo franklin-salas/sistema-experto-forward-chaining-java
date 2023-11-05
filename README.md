@@ -9,7 +9,7 @@
   
   Principal
 
-  ![preview img](/preview/nivel_01.jpg)
+  ![preview img](/preview/se_fwc.jpg)
   
   Script 
   ```	
@@ -53,6 +53,6 @@ BASEHECHO
   
   Ejecutado
 
-  ![preview img](/preview/nivel_02.jpg)
+  ![preview img](/preview/se_fwc_metas.jpg)
   
   
