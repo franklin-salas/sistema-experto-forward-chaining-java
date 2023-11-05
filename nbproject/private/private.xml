@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Franklin/Documents/NetBeansProjects/My_FWC/src/my_fwc/dato/LNumerico.java</file>
+            <file>file:/C:/Users/Franklin/Documents/NetBeansProjects/My_FWC/src/my_fwc/dato/BaseHecho.java</file>
+            <file>file:/C:/Users/Franklin/Documents/NetBeansProjects/My_FWC/src/my_fwc/dato/Literal.java</file>
+            <file>file:/C:/Users/Franklin/Documents/NetBeansProjects/My_FWC/src/my_fwc/dato/LEscalar.java</file>
+            <file>file:/C:/Users/Franklin/Documents/NetBeansProjects/My_FWC/src/my_fwc/analizador/Cinta.java</file>
+            <file>file:/C:/Users/Franklin/Documents/NetBeansProjects/My_FWC/src/my_fwc/inferencia/Regla.java</file>
+            <file>file:/C:/Users/Franklin/Documents/NetBeansProjects/My_FWC/src/my_fwc/analizador/Parser.java</file>
+            <file>file:/C:/Users/Franklin/Documents/NetBeansProjects/My_FWC/src/my_fwc/inferencia/MotorInferencia.java</file>
+            <file>file:/C:/Users/Franklin/Documents/NetBeansProjects/My_FWC/src/my_fwc/dato/UIText.java</file>
+            <file>file:/C:/Users/Franklin/Documents/NetBeansProjects/My_FWC/src/my_fwc/convers/Interprete.java</file>
+            <file>file:/C:/Users/Franklin/Documents/NetBeansProjects/My_FWC/src/my_fwc/inferencia/BaseConocimiento.java</file>
+            <file>file:/C:/Users/Franklin/Documents/NetBeansProjects/My_FWC/src/my_fwc/dato/Itype.java</file>
+            <file>file:/C:/Users/Franklin/Documents/NetBeansProjects/My_FWC/src/my_fwc/analizador/AnalizadorLex.java</file>
+            <file>file:/C:/Users/Franklin/Documents/NetBeansProjects/My_FWC/src/my_fwc/My_FWC.java</file>
+            <file>file:/C:/Users/Franklin/Documents/NetBeansProjects/My_FWC/src/my_fwc/ui/Sistema_Experto.java</file>
+            <file>file:/C:/Users/Franklin/Documents/NetBeansProjects/My_FWC/src/my_fwc/persistencia/GestionArchivo.java</file>
+        </group>
+    </open-files>
+</project-private>
