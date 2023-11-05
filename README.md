@@ -12,7 +12,8 @@
   ![preview img](/preview/se_fwc.jpg)
   
   Script 
-  ```NUMERICO 
+  ```	
+NUMERICO 
 TEMP 
 
 ESCALAR 
@@ -46,7 +47,8 @@ IF ATENCION = MEDICOGENERAL
         TRATAMIENTO = VACUNA
 
 BASEHECHO
- [Temp = 38 , TOS = SI, CANSANCIO = SI,DOLORCUERPO = SI]```
+ [Temp = 38 , TOS = SI, CANSANCIO = SI,DOLORCUERPO = SI]
+ ```
   
   Ejecutado
 
